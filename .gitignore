@@ -1,0 +1,4 @@
+multitoolagent/.env
+
+# Ignore Python cache files
+multitoolagent/__pycache__/
